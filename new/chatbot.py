@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 
 import configparser
 import logging
-import redis
+import redis 
 
 global redis1
 
